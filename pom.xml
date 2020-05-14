@@ -182,7 +182,7 @@
         <repository>
             <id>github</id>
             <name>Github ci-plugins java-sdk-plugin Maven Packages</name>
-            <url>https://maven.pkg.github.com/ci-plugins/java-plugin-sdk</url>
+            <url>https://maven.pkg.github.com/irwinsun/java-plugin-sdk</url>
         </repository>
     </distributionManagement>
 
