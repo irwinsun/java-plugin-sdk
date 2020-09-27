@@ -9,6 +9,7 @@
     <version>1.0.2</version>
 
     <inceptionYear>2018-2118</inceptionYear>
+    <description>bk-ci pipeline plugins sdk for java</description>
     <url>https://github.com/ci-plugins/java-plugin-sdk</url>
     <name>bksdk</name>
     <organization>
