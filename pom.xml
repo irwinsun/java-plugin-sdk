@@ -19,6 +19,8 @@
         <license>
             <name>MIT</name>
             <url>https://github.com/ci-plugins/java-plugin-sdk/blob/master/LICENSE</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
         </license>
     </licenses>
     <scm>
